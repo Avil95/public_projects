@@ -1,0 +1,16 @@
+pwd - print working directory
+echo - linux version of print
+sudo - execute commands with superuser privileges
+clear - clears screen
+cd - change directory
+ls - list
+cat - concatenate
+less - similar to less
+grep - search pattern
+sort
+mv - move
+cp - copy
+rm - remove
+mkdir - make directory
+rmdir - remove directory
+chmod - change permissions

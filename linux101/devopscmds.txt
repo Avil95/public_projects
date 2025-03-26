@@ -1,0 +1,8 @@
+man <cmd> : provides manual information about a command
+clear : clears the console
+pwd : prints the current working directory
+cd : change working directory
+echo : similar to print command
+whoami : displays current user
+su : change user to superuser
+
